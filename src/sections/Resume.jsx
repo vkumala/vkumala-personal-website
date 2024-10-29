@@ -2,7 +2,6 @@ import { EXPERIENCES, EDUCATIONS } from "../assets/cv.js";
 import EducationItem from "../components/EducationItem.jsx";
 import ExperienceItem from "../components/ExperienceItem.jsx";
 import SectionTitle from "../components/SectionTitle";
-import Lebenslauf from "../assets/Lebenslauf.pdf";
 import angularLogo from "../assets/angular_logo.png";
 import reactLogo from "../assets/react_logo.png";
 import vueLogo from "../assets/Vue.png";
@@ -60,7 +59,7 @@ export default function Resume() {
       <div className="text-center">
         <a
           className="py-4 px-20  bg-primary border-2 inline-block rounded-xl"
-          href={Lebenslauf}
+          href="Lebenslauf.pdf"
           target="_blank"
         >
           See my resume in German

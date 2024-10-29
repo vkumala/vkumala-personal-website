@@ -11,19 +11,24 @@ export default function AboutMe() {
       <div className="w-1/4">
         <SectionTitle>About Me</SectionTitle>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
-          voluptatem reprehenderit minima! Possimus, ducimus. Accusamus commodi
-          autem consequuntur tenetur et?
+          I'm a full-stack developer with a passion for creating user-friendly,
+          impactful websites. With a background in Computational Engineering
+          Science and hands-on experience as a software developer, I bring a
+          well-rounded understanding of both backend and frontend development to
+          my work. I’m particularly interested in designing and building
+          intuitive, efficient user interfaces that make a real difference to
+          users.
         </p>
         <p>
-          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam
-          consequuntur, tempora veniam qui molestiae beatae odio quam nemo et a
-          tempore perferendis culpa! Reiciendis quidem laudantium ipsum nisi
-          temporibus doloremque.
+          I’m always looking for opportunities to dive into challenging projects
+          and expand my skills. Working in a dynamic, project-driven environment
+          is where I thrive, and I enjoy collaborating with teams that push the
+          boundaries of web development.
         </p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea, illo.
-        </p>{" "}
+          When I'm not coding, you can find me strumming a tune on my ukulele or
+          diving into a sewing project.
+        </p>
       </div>
     </div>
   );
