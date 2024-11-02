@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <div className="h-[100px] flex justify-between items-center py-4 px-4 bg- text-dark ">
+    <div className="h-[100px] flex justify-between items-center  px-10 text-dark ">
       <h1 className="text-4xl font-semibold ">Verdiana Kumala</h1>
       <div className="flex justify-between items-center uppercase">
         <nav>

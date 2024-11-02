@@ -1,6 +1,14 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  /* 
   font-size: 16px;
   max-width: 1280px;
-  margin: 0 auto !important;
+  margin: 0 auto !important; */
 }

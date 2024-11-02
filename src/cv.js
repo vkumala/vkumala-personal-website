@@ -11,14 +11,14 @@ export const EXPERIENCES = [
     start: "June 2023",
     end: "September 2024",
     role: null,
-    company: "Maternity and parental leave",
+    company: "Maternity and paternity leave 🤰👶",
     location: null,
     techStacks: [],
   },
   {
     start: "January 2018",
     end: "June 2018",
-    role: "Internship",
+    role: "Intern",
     company: "Mercedes Benz",
     location: "Berlin",
     techStacks: [],
@@ -26,7 +26,7 @@ export const EXPERIENCES = [
   {
     start: "August 2014",
     end: "October 2014",
-    role: "Internship",
+    role: "Intern",
     company: "Fraunhofer IPK Geschäftsfeld Virtuelle Produktentstehung",
     location: "Berlin",
     techStacks: [],
@@ -63,3 +63,5 @@ export const EDUCATIONS = [
     major: "Science Class",
   },
 ];
+
+export const TECH_STACKS = [{ name: "Frontend", logos: [] }];

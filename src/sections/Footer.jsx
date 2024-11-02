@@ -10,7 +10,7 @@ export default function Footer() {
       <div>
         Groenerstr. 19 <br /> 13585 Berlin <br /> Deutschland
       </div>
-      <div className="font-semibold">E-Mail: vkumala@gmx.de</div>
+      <div className="font-semibold">E-Mail: vkumala@web.de</div>
     </div>
   );
 }
