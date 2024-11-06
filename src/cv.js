@@ -24,6 +24,14 @@ export const EXPERIENCES = [
     techStacks: [],
   },
   {
+    start: "December 2014",
+    end: "September 2019",
+    role: "Student assistant",
+    company: "Institut für Werkzeugmaschinen und Fabrikbetrieb, TU Berlin",
+    location: "Berlin",
+    techStacks: [],
+  },
+  {
     start: "August 2014",
     end: "October 2014",
     role: "Intern",
@@ -55,13 +63,4 @@ export const EDUCATIONS = [
     college: "Technische Universität Berlin",
     major: "T-Kurs (Science/Technology Course)",
   },
-  {
-    start: "July 2007",
-    end: "June 2010",
-    role: "High School",
-    college: "SMA Tarakanita 2 Jakarta",
-    major: "Science Class",
-  },
 ];
-
-export const TECH_STACKS = [{ name: "Frontend", logos: [] }];

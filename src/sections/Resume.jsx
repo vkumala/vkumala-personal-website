@@ -71,7 +71,7 @@ export default function Resume() {
           </div>
         </div>
         <div id="expedu">
-          <SectionTitle>Experience</SectionTitle>
+          <SectionTitle>Work Experiences</SectionTitle>
           {EXPERIENCES.map((exp, id) => (
             <ExperienceItem experience={exp} key={id} />
           ))}{" "}
@@ -87,7 +87,7 @@ export default function Resume() {
             href="Lebenslauf.pdf"
             target="_blank"
           >
-            See my resume in German
+            See my full resume in German
           </a>
         </div>
       </div>

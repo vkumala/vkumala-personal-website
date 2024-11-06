@@ -9,16 +9,17 @@ export default function AboutMe() {
           <img className="w-[300px]" src={PortraitImg} alt="asdasd" />
           <div>
             <SectionTitle>About Me</SectionTitle>
-            <p>
-              I'm a full-stack developer with a passion for creating
-              user-friendly, impactful websites. With a background in
+            <p className="mb-2">
+              I'm a (wannabe) full-stack developer with a passion for creating
+              user-friendly, beautiful, and impactful websites and apps. I bring
+              a well-rounded understanding of both backend and frontend
+              development to my work. I have an engineering background in
               Computational Engineering Science and hands-on experience as a
-              software developer, I bring a well-rounded understanding of both
-              backend and frontend development to my work. I’m particularly
-              interested in designing and building intuitive, efficient user
-              interfaces that make a real difference to users.
+              software developer. I’m particularly interested in designing and
+              building intuitive, efficient user interfaces that make a real
+              difference to users.
             </p>
-            <p>
+            <p className="mb-2">
               I’m always looking for opportunities to dive into challenging
               projects and expand my skills. Working in a dynamic,
               project-driven environment is where I thrive, and I enjoy
@@ -26,8 +27,13 @@ export default function AboutMe() {
               development.
             </p>
             <p>
-              When I'm not coding, you can find me strumming a tune on my
-              ukulele or diving into a sewing project.
+              I originally come metropole Jakarta, Indonesia, and have been
+              living in Berlin for the past 13 years. This multicultural
+              background has given me a unique perspective and adaptability,
+              which I bring into my work and daily life. When I'm not coding,
+              you can find me in the kitchen cooking delicious and spicy food,
+              on the couch strumming my ukulele, or at work table diving into a
+              sewing project.
             </p>
           </div>
         </div>
