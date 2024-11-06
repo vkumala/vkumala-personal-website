@@ -15,9 +15,13 @@ export default function Welcome() {
               career in the web development
             </p>
             <p className="text-2xl  py-2">Based in Berlin</p>
-            <button className="bg-secondary  py-2 px-4   rounded-md border my-4">
+
+            <a
+              className="bg-secondary  py-2 px-4  rounded-md border mt-4"
+              href="https://github.com/vkumala"
+            >
               See my work &rarr;
-            </button>
+            </a>
           </div>
           <img
             className=" w-1/3 border-8 border-light"
