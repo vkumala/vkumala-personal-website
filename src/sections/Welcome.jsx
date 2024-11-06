@@ -16,12 +16,11 @@ export default function Welcome() {
             </p>
             <p className="text-2xl  py-2">Based in Berlin</p>
 
-            <a
-              className="bg-secondary  py-2 px-4  rounded-md border mt-4"
-              href="https://github.com/vkumala"
-            >
-              See my work &rarr;
-            </a>
+            <button className="bg-secondary  py-2 px-4  rounded-md border mt-5">
+              <a href="https://github.com/vkumala">
+                Check out my GitHub <ion-icon name="logo-github"></ion-icon>
+              </a>
+            </button>
           </div>
           <img
             className=" w-1/3 border-8 border-light"
