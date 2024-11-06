@@ -15,9 +15,9 @@ export default function Header() {
               <a href="#expedu"> RESUME</a>
             </li>
 
-            <button className="bg-secondary  py-2 px-4 ms-4 rounded-md border">
-              Contact US
-            </button>
+            <li className="bg-secondary  py-2 px-4 ms-4 rounded-md border hover:underline hover:underline-offset-8  hover:cursor-pointer">
+              <a href="#footie"> Contact Me</a>
+            </li>
           </ul>
         </nav>
       </div>

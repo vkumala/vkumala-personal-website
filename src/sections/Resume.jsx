@@ -47,7 +47,6 @@ export default function Resume() {
           </div>
           <div>Backend</div>
           <div className="grid grid-cols-8 gap-4">
-            {" "}
             <TechLogo src={node} title="Node.js" />
             <TechLogo src={flask} title="Flask" />
           </div>{" "}
